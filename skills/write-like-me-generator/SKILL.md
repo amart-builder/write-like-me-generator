@@ -12,7 +12,7 @@ You are using this skill to learn how to write like your user, and to leave behi
 1. Go through the user's last 60 days of sent email (use their connected Gmail or whatever email access this machine has). Collect the emails THEY wrote.
 2. For each email, capture their message AND enough of the surrounding thread that the context is clear (what they were replying to, who the audience was). Their words are the signal; the context explains the register.
 3. Ask the user: "Do you have any other writing that really sounds like you? A blog post, a memo, a long text, anything you're proud of." Add whatever they give you.
-4. Store the corpus as markdown in a folder called `My Voice` inside the user's System Prompts folder (default: `~/Desktop/Projects/System Prompts/My Voice/corpus.md`; ask if their setup uses a different location). One section per email or sample, with a one-line context header each.
+4. Store the corpus as markdown in a folder called `My Voice` inside the user's System Prompts folder (default: `~/Desktop/Claude/System Prompts/My Voice/corpus.md`; ask if their setup uses a different location). One section per email or sample, with a one-line context header each.
 5. Skip anything sensitive: no passwords, no financial account details. If an email is clearly confidential, summarize its style traits instead of copying it.
 
 ## Phase 2: Create the /write-like-me skill
